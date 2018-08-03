@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contain{
+    height: 70px;
+    background-color: #eee;
+    border: 1px solid #101214;
+    color: #101214;
+    margin : 20px;
+}
